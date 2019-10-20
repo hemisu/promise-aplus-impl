@@ -1,0 +1,22 @@
+{
+  "name": "promise-aplus-impl",
+  "version": "1.0.0",
+  "description": "Promise/A+的实现",
+  "main": "/src/index.js",
+  "dependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "promises-aplus-tests src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.xiaojukeji.com:hekunyu/promise-aplus-impl.git"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "hekunyu",
+  "license": "ISC"
+}
